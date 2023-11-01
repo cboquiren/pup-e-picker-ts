@@ -4,7 +4,6 @@ import { ClassDogs } from "./ClassDogs";
 import { ClassCreateDogForm } from "./ClassCreateDogForm";
 import { ActiveSelectorType, Dog } from "../types";
 import { Requests } from "../api";
-import { dogPictures } from "../dog-pictures";
 import toast from "react-hot-toast";
 
 type State = {
