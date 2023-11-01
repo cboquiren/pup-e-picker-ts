@@ -1,102 +1,144 @@
 {
   "dogs": [
     {
-      "name": "Antonia",
-      "image": "/assets/chihuahua.avif",
-      "description": "ampere Metal lavender Funk Fundamental payment wireless",
+      "name": "Pamela",
+      "image": "/assets/blue-heeler.png",
+      "description": "connect Northwest colossal likewise female transmitter implement blue",
+      "isFavorite": true,
+      "id": 0
+    },
+    {
+      "name": "Aracely",
+      "image": "/assets/boxer.png",
+      "description": "Mazda throughput THX Bike radian Northeast Hat Non",
       "isFavorite": false,
+      "id": 1
+    },
+    {
+      "name": "Imani",
+      "image": "/assets/cowardly.png",
+      "description": "Southeast architectures Gorgeous Corporate static Borders Research Reggae",
+      "isFavorite": true,
       "id": 2
     },
     {
-      "name": "Efrain",
-      "image": "/assets/chihuahua.avif",
-      "description": "Electric Analyst Usability Mountain East Table female Lead",
+      "name": "Beverly",
+      "image": "/assets/corgi.png",
+      "description": "Adaptive Southwest Agent amet Modern",
+      "isFavorite": false,
+      "id": 3
+    },
+    {
+      "name": "Delmer",
+      "image": "/assets/blue-heeler.png",
+      "description": "Salad invoice asynchronous white Mouse bidder SUV",
       "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Keven",
+      "image": "/assets/boxer.png",
+      "description": "Manat Northwest although convergence Koepp",
+      "isFavorite": false,
       "id": 5
     },
     {
-      "name": "Velma",
-      "image": "/assets/boxer.png",
-      "description": "Diesel whether synthesize South Investment Zirconium farad",
+      "name": "Nadia",
+      "image": "/assets/cowardly.png",
+      "description": "Legacy believer Gorgeous Small Stage",
+      "isFavorite": false,
+      "id": 6
+    },
+    {
+      "name": "Jaiden",
+      "image": "/assets/dalmation.png",
+      "description": "Home Schulist Bicycle backing Outdoors technologies exercitationem",
+      "isFavorite": true,
+      "id": 7
+    },
+    {
+      "name": "Terrell",
+      "image": "/assets/chihuahua.avif",
+      "description": "silently Producer broadly Electric Concrete",
       "isFavorite": true,
       "id": 8
     },
     {
-      "name": "Estefania",
-      "image": "/assets/dalmation.png",
-      "description": "reboot facilis input management that overriding SMTP",
+      "name": "Ervin",
+      "image": "/assets/boxer.png",
+      "description": "HDD mole at up Tungsten Fundamental compelling",
       "isFavorite": true,
+      "id": 9
+    },
+    {
+      "name": "Luciano",
+      "image": "/assets/boxer.png",
+      "description": "Cameroon recover RSS Tuna female Bicycle male",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Nellie",
+      "image": "/assets/cowardly.png",
+      "description": "Tanzania Nissan second North Van orchestrate adapter abaft",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "Charlene",
+      "image": "/assets/chihuahua.avif",
+      "description": "Bicycle SCSI Minivan Global per",
+      "isFavorite": false,
       "id": 12
     },
     {
-      "name": "Myles",
-      "image": "/assets/blue-heeler.png",
-      "description": "Synchronised group sensor composite raw anenst navigate",
-      "isFavorite": false,
+      "name": "Rory",
+      "image": "/assets/cowardly.png",
+      "description": "Brand Northwest Loan lovingly seldom",
+      "isFavorite": true,
       "id": 13
     },
     {
-      "name": "Santiago",
-      "image": "/assets/corgi.png",
-      "description": "woman Global piercing Rap Web",
-      "isFavorite": true,
+      "name": "Aric",
+      "image": "/assets/chihuahua.avif",
+      "description": "Cisgender yet neutral Schaefer Berkshire female hot Rubber",
+      "isFavorite": false,
       "id": 14
     },
     {
-      "name": "Oral",
-      "image": "/assets/chihuahua.avif",
-      "description": "City Optimized Corporate Clothing Implemented Metal navigating Chair",
+      "name": "Ernestina",
+      "image": "/assets/blue-heeler.png",
+      "description": "bluetooth Moldova North Extension Borders Bicycle World",
       "isFavorite": false,
       "id": 15
     },
     {
-      "name": "Anjali",
-      "image": "/assets/chihuahua.avif",
-      "description": "Bicycle canst nor henry RAM",
-      "isFavorite": false,
+      "name": "Raina",
+      "image": "/assets/blue-heeler.png",
+      "description": "volt North zesty navigating connect monitor silver",
+      "isFavorite": true,
       "id": 16
     },
     {
-      "name": "Angelina",
-      "image": "/assets/blue-heeler.png",
-      "description": "Manager Sodium FTM maroon SSD Jewelery White bully",
+      "name": "Watson",
+      "image": "/assets/chihuahua.avif",
+      "description": "payment fuchsia Technician Sausages certainly",
       "isFavorite": true,
       "id": 17
     },
     {
-      "name": "Sandra",
-      "image": "/assets/boxer.png",
-      "description": "Lamborghini deposit disintermediate turquoise Martin",
+      "name": "Isaiah",
+      "image": "/assets/corgi.png",
+      "description": "Renminbi asymmetric red project Ecuador quasi District Electric",
       "isFavorite": false,
       "id": 18
     },
     {
-      "name": "Yvette",
-      "image": "/assets/boxer.png",
-      "description": "distributed Sleek nest exploit Surinam compressing straight",
+      "name": "Magdalen",
+      "image": "/assets/corgi.png",
+      "description": "Recycled Principal bulky payment town",
       "isFavorite": true,
       "id": 19
-    },
-    {
-      "name": "asdfasdf",
-      "description": "asdfasdf",
-      "image": "/assets/blue-heeler.png",
-      "isFavorite": false,
-      "id": 20
-    },
-    {
-      "name": "test",
-      "image": "/assets/boxer.jpeg",
-      "description": "like button",
-      "isFavorite": false,
-      "id": 21
-    },
-    {
-      "name": "test for like",
-      "image": "/assets/corgi.png",
-      "description": "likes",
-      "isFavorite": false,
-      "id": 22
     }
   ]
 }

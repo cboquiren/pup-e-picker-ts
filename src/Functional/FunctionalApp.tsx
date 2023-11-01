@@ -70,17 +70,11 @@ export function FunctionalApp() {
             isLoading={isLoading}
           />
         )}
-        {activeSelector === "favorited" && (
+        {(activeSelector === "favorited" || activeSelector === "unfavorited") && (
           <FunctionalDogs
-            dogs={allDogs.filter((dog) => dog.isFavorite)}
-            deleteDog={deleteDog}
-            updateDog={updateDog}
-            isLoading={isLoading}
-          />
-        )}
-        {activeSelector === "unfavorited" && (
-          <FunctionalDogs
-            dogs={allDogs.filter((dog) => !dog.isFavorite)}
+            dogs={allDogs.filter((dog) => {
+              return activeSelector === "favorited" ? dog.isFavorite : !dog.isFavorite;
+            })}
             deleteDog={deleteDog}
             updateDog={updateDog}
             isLoading={isLoading}
